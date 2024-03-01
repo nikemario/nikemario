@@ -1,9 +1,7 @@
-Hi, I'm Hannah! I'm a 2023 graduate of Southern Utah University <img src="https://1000logos.net/wp-content/uploads/2021/07/Southern-Utah-Thunderbirds-logo-500x281.png" alt="Southern Utah University's bird head logo" height="15" width="28"/> with my Bachelor's degree in Computer Science.
+I'm a 2023 graduate of Southern Utah University with my Bachelor's degree in Computer Science.
 
 I'm most comfortable writing in Java & Python, as those are the languages I've spent the most time with.
 I also have some experience with SQL, C/C++, HTML/CSS/Javascript, Swift, and Kotlin.
-
-I'm most interested in back-end work & am always open to learning something new! 
 
 <!--
 **nikemario/nikemario** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
